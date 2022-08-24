@@ -2,6 +2,13 @@
 
 A smattering of utilities for evaluating NOAA's UFS-Aerosol model 
 
+## UFS p8 Location 
+```
+COMROT: /scratch1/NCEPDEV/climate/role.ufscpara/Prototype8/work-P8/COMROOT
+HPSS: /NCEPDEV/emc-climate/5year/role.ufscpara/HERA/prototype8
+```
+
+
 
 ### AERONET
 

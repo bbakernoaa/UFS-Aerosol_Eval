@@ -8,7 +8,9 @@ COMROT: /scratch1/NCEPDEV/climate/role.ufscpara/Prototype8/work-P8/COMROOT
 HPSS: /NCEPDEV/emc-climate/5year/role.ufscpara/HERA/prototype8
 ```
 
+### p8 progress document and how to run 
 
+https://docs.google.com/document/d/1io4L9XDk4Iavfca2GM8fduARfkkYW-NJDZpf_V8Ysl0/edit
 
 ### AERONET
 

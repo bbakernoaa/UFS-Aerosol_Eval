@@ -35,4 +35,4 @@ This will download all MERRA2 data for the year 2019.  Each day is approximately
 
 ### previous analysis
 
-https://docs.google.com/presentation/d/1YJ6OCCsD-tt6mtZW_TcHV5Jk83drJlK_jSHmIcfAAN4/edit?pli=1#slide=id.g13e68a4661a_0_186
+https://docs.google.com/presentation/d/1YJ6OCCsD-tt6mtZW_TcHV5Jk83drJlK_jSHmIcfAAN4/edit?usp=sharing

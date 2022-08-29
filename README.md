@@ -32,3 +32,7 @@ htar -xvf /NCEPDEV/emc-naqfc/5year/Barry.Baker/MERRA2/MERRA2_DAILY_2019.tar
 
 This will download all MERRA2 data for the year 2019.  Each day is approximately 29 mb and is at the 0.5x0.625 resolution.
 
+
+### previous analysis
+
+https://docs.google.com/presentation/d/1YJ6OCCsD-tt6mtZW_TcHV5Jk83drJlK_jSHmIcfAAN4/edit?pli=1#slide=id.g13e68a4661a_0_186

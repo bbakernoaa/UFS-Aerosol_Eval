@@ -37,7 +37,9 @@ In the AERONET/ folder data from AERONET for each of the simulations are stored 
 
 There is also a download script that will prepare the AERONET data using monetio as a preprocessing step.
 
-### utils
+## utils
+
+### get_merra2_inst2daod.sh
 
 the `utils/get_merra2_inst2daod.sh` will download MERRA2 data with wget
 

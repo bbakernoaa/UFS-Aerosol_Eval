@@ -12,6 +12,13 @@ HPSS: /NCEPDEV/emc-climate/5year/role.ufscpara/HERA/prototype8
 
 https://docs.google.com/document/d/1io4L9XDk4Iavfca2GM8fduARfkkYW-NJDZpf_V8Ysl0/edit
 
+## Current Analysis 
+
+- [Partha's monthly bias and rsme](https://docs.google.com/presentation/d/14ph-l-BXZTcEoPZsmauwaGyLIi_jSoNcLOt39JK4L5k/edit#slide=id.g1492c5632db_2_75)
+- [Partha's 2012 monthly bias and rsme](https://docs.google.com/presentation/d/1G7qJh7DHFYghfLXVAT-yCpprzAHnNLeOB_K1cLhGtEk/edit?usp=sharing)
+- [UFS Coupled Model Meeting synthesis](https://docs.google.com/presentation/d/1mHW1mUY-T7GJjc_omUbvPHGVcXbZFKsmWibxZ3wQBh8/edit?usp=sharing)
+
+
 ## Observvations on HERA and HPSS
 
 ### MERRA2 Daily Data

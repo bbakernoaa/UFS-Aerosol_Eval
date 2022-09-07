@@ -17,6 +17,7 @@ https://docs.google.com/document/d/1io4L9XDk4Iavfca2GM8fduARfkkYW-NJDZpf_V8Ysl0/
 - [Partha's monthly bias and rsme](https://docs.google.com/presentation/d/14ph-l-BXZTcEoPZsmauwaGyLIi_jSoNcLOt39JK4L5k/edit#slide=id.g1492c5632db_2_75)
 - [Partha's 2012 monthly bias and rsme](https://docs.google.com/presentation/d/1G7qJh7DHFYghfLXVAT-yCpprzAHnNLeOB_K1cLhGtEk/edit?usp=sharing)
 - [UFS Coupled Model Meeting synthesis](https://docs.google.com/presentation/d/1mHW1mUY-T7GJjc_omUbvPHGVcXbZFKsmWibxZ3wQBh8/edit?usp=sharing)
+- [Lydia's evaluation of low level winds vs ERA5](https://docs.google.com/presentation/d/1LN1L6E3uuVqZd2O3L-NiurMCUu0rGGvgGvQnkh-XHWs/edit#slide=id.g14b010d31b2_0_19)
 
 
 ## Observvations on HERA and HPSS

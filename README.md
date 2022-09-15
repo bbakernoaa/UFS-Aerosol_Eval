@@ -45,6 +45,8 @@ In the AERONET/ folder data from AERONET for each of the simulations are stored 
 
 There is also a download script that will prepare the AERONET data using monetio as a preprocessing step.
 
+All daily AERONET data is downloaded within this repository for P8 found in the `AERONET/*_D.nc`
+
 ## utils
 
 ### get_merra2_inst2daod.sh

@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1io4L9XDk4Iavfca2GM8fduARfkkYW-NJDZpf_V8Ysl0/
 - [Lydia's evaluation of low level winds vs ERA5](https://docs.google.com/presentation/d/1LN1L6E3uuVqZd2O3L-NiurMCUu0rGGvgGvQnkh-XHWs/edit#slide=id.g14b010d31b2_0_19)
 
 
-## Observvations on HERA and HPSS
+## Observations on HERA and HPSS
 
 ### MERRA2 Daily Data
 

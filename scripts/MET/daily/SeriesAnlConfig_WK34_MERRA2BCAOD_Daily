@@ -1,0 +1,102 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+// Grid-Stat configuration file.
+//
+// For additional information, see the MET_BASE/config/README file.
+//
+////////////////////////////////////////////////////////////////////////////////
+
+//
+// Output model name to be written
+//
+model = "WRF";
+desc = "NA";
+
+//
+// Output observation type to be written
+//
+obtype = "ANALYS";
+//
+
+cat_thresh  = [ NA ];
+cnt_thresh  = [ NA ];
+cnt_logic   = INTERSECTION;
+
+
+// Forecast and observation fields to be verified
+//
+
+fcst = {
+   file_type=NETCDF_NCCF;
+   field = [ {  name = "AOD_BC"; level = [ "(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)","(0,*,*)" ]; } ];
+};
+
+obs = {
+   file_type=NETCDF_NCCF;
+   field = [ {  name = "BCEXTTAU"; level = [  "(0,*,*)", "(0,*,*)","(0,*,*)", "(0,*,*)", "(0,*,*)", "(0,*,*)","(0,*,*)", "(0,*,*)", "(0,*,*)","(0,*,*)", "(0,*,*)", "(0,*,*)", "(0,*,*)","(0,*,*)" ]; } ];
+};
+
+////////////////////////////////////////////////////////////////////////////////
+
+//
+// Verification masking regions
+//
+mask = {
+   grid = "";
+   poly = "";
+};
+
+  block_size = 1000000;
+  vld_thresh = 0.02;
+
+regrid = {
+    to_grid = FCST;
+    method = NEAREST;
+    width = 1;
+    vld_thresh = 0.02;
+    shape = SQUARE;
+}
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+//
+// Statistical output types
+//
+output_stats = {
+   fho    = [ "F_RATE", "O_RATE", "TOTAL" ];
+   ctc    = [];
+   cts    = [ "CSI", "GSS", "FAR" ];
+   mctc   = [];
+   mcts   = [];
+   cnt    = [ "TOTAL","FBAR", "OBAR","PR_CORR","ME","MAE","MSE","RMSE","BCMSE","MAD","E10","E25","E50","E75","E90","KT_CORR","ESTDEV","SP_CORR" ];
+   sl1l2  = [];
+   pct    = [];
+   pstd   = [];
+   pjc    = [];
+   prc    = []; 
+
+};
+
+//
+// NetCDF matched pairs output file
+//
+
+//nc_pairs_flag   = {
+//
+//   latlon = TRUE;
+//   raw    = TRUE;
+//   diff   = TRUE;
+
+//};
+
+////////////////////////////////////////////////////////////////////////////////
+
+rank_corr_flag = TRUE;
+tmp_dir        = "/tmp";
+//output_prefix  = "";
+version        = "V9.0.2";
+
+////////////////////////////////////////////////////////////////////////////////
